@@ -1,6 +1,5 @@
-# RPG-Game
-Live Demo at https://arjunr3108.github.io/RPG-Game/
+1. Visit "https://arjunr3108.github.io/RPG-Game" to view the live demo.
 
-This is a Website Based RPG Game using HTML, CSS and javascript.
+2. This is a website-based text-orientated RPG game using HTML, CSS, and Javascript.
 
-It was created with the help of freecodecamp.org's youtube tutorial on "Full Stack Web Development for Beginners".
+3. The FreeCodeCamp YouTube channel's "Full Stack Web Development for Beginners" helped me create this website.
